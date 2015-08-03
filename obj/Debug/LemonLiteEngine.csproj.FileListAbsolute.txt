@@ -1,0 +1,33 @@
+C:\Documents and Settings\6057151\Meus documentos\LemonLiteEngine\LemonLiteEngine\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\6057151\Meus documentos\LemonLiteEngine\LemonLiteEngine\bin\Debug\LemonLiteEngine.dll
+C:\Documents and Settings\6057151\Meus documentos\LemonLiteEngine\LemonLiteEngine\bin\Debug\LemonLiteEngine.pdb
+C:\Documents and Settings\6057151\Meus documentos\LemonLiteEngine\LemonLiteEngine\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll
+C:\Documents and Settings\6057151\Meus documentos\LemonLiteEngine\LemonLiteEngine\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll
+C:\Documents and Settings\6057151\Meus documentos\LemonLiteEngine\LemonLiteEngine\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll
+C:\Documents and Settings\6057151\Meus documentos\LemonLiteEngine\LemonLiteEngine\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll
+C:\Documents and Settings\6057151\Meus documentos\LemonLiteEngine\LemonLiteEngine\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll
+C:\Documents and Settings\6057151\Meus documentos\LemonLiteEngine\LemonLiteEngine\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll
+C:\Documents and Settings\6057151\Meus documentos\LemonLiteEngine\LemonLiteEngine\obj\Debug\LemonLiteEngine.dll
+C:\Documents and Settings\6057151\Meus documentos\LemonLiteEngine\LemonLiteEngine\obj\Debug\LemonLiteEngine.pdb
+D:\Caio\Work\LemonLiteEngine\obj\Debug\ResolveAssemblyReference.cache
+D:\Caio\Work\LemonLiteEngine\obj\Debug\LemonLiteEngine.dll
+D:\Caio\Work\LemonLiteEngine\obj\Debug\LemonLiteEngine.pdb
+D:\Caio\Work\LemonLiteEngine\bin\Debug\LemonLiteEngine.dll
+D:\Caio\Work\LemonLiteEngine\bin\Debug\LemonLiteEngine.pdb
+D:\Caio\Work\LemonLiteEngine\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll
+D:\Caio\Work\LemonLiteEngine\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll
+D:\Caio\Work\LemonLiteEngine\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll
+D:\Caio\Work\LemonLiteEngine\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll
+D:\Caio\Work\LemonLiteEngine\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll
+D:\Caio\Work\LemonLiteEngine\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll
+C:\Documents and Settings\6057151\Meus documentos\LemonLiteEngine\bin\Debug\LemonLiteEngine.dll
+C:\Documents and Settings\6057151\Meus documentos\LemonLiteEngine\bin\Debug\LemonLiteEngine.pdb
+C:\Documents and Settings\6057151\Meus documentos\LemonLiteEngine\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll
+C:\Documents and Settings\6057151\Meus documentos\LemonLiteEngine\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll
+C:\Documents and Settings\6057151\Meus documentos\LemonLiteEngine\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll
+C:\Documents and Settings\6057151\Meus documentos\LemonLiteEngine\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll
+C:\Documents and Settings\6057151\Meus documentos\LemonLiteEngine\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll
+C:\Documents and Settings\6057151\Meus documentos\LemonLiteEngine\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll
+C:\Documents and Settings\6057151\Meus documentos\LemonLiteEngine\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\6057151\Meus documentos\LemonLiteEngine\obj\Debug\LemonLiteEngine.dll
+C:\Documents and Settings\6057151\Meus documentos\LemonLiteEngine\obj\Debug\LemonLiteEngine.pdb

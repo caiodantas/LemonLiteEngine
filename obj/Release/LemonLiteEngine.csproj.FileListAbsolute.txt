@@ -1,0 +1,11 @@
+D:\Caio\Work\LemonLiteEngine\obj\Release\ResolveAssemblyReference.cache
+D:\Caio\Work\LemonLiteEngine\bin\Release\LemonLiteEngine.dll
+D:\Caio\Work\LemonLiteEngine\bin\Release\LemonLiteEngine.pdb
+D:\Caio\Work\LemonLiteEngine\bin\Release\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll
+D:\Caio\Work\LemonLiteEngine\bin\Release\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll
+D:\Caio\Work\LemonLiteEngine\bin\Release\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll
+D:\Caio\Work\LemonLiteEngine\bin\Release\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll
+D:\Caio\Work\LemonLiteEngine\bin\Release\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll
+D:\Caio\Work\LemonLiteEngine\bin\Release\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll
+D:\Caio\Work\LemonLiteEngine\obj\Release\LemonLiteEngine.dll
+D:\Caio\Work\LemonLiteEngine\obj\Release\LemonLiteEngine.pdb
